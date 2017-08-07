@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Betit
+
+  Created by Miroslav Čapkovič on 06/08/2017.
+  Copyright © 2017 Miros. All rights reserved.
+*/
+
+"title_new_account" = "New Account";
+"title_password_recovery" = "Password Recovery";
+
+"input_error_email" = "Please insert email";
+"input_error_password" = "Please insert password";
+
+"forgot_password_error" = "Unable to recover password";
+
+"textfield_placeholder_email" = "Email";
+"textfield_placeholder_password" = "Password";
+
+"button_title_register" = "Register";
+"button_title_login" = "Login";
+"button_title_forgot_password" = "Forgot Password";
+"button_title_create_account" = "Create Account";
+"button_title_send" = "Send";
+
+"label_password_recovery_description" = "To reset password, enter the email address of your account. We will send you email with new password.";
+
+"response_error_general" = "Error occured";
+
+"title_success" = "Success";
+"text_password_was_send" = "New password was send";
